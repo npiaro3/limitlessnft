@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/limitlessnft/static/css/main.913a85c7.chunk.css",
-    "main.js": "/limitlessnft/static/js/main.4953317c.chunk.js",
-    "main.js.map": "/limitlessnft/static/js/main.4953317c.chunk.js.map",
+    "main.js": "/limitlessnft/static/js/main.cff991c6.chunk.js",
+    "main.js.map": "/limitlessnft/static/js/main.cff991c6.chunk.js.map",
     "runtime-main.js": "/limitlessnft/static/js/runtime-main.89cc64fb.js",
     "runtime-main.js.map": "/limitlessnft/static/js/runtime-main.89cc64fb.js.map",
     "static/js/2.f37fb951.chunk.js": "/limitlessnft/static/js/2.f37fb951.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.89cc64fb.js",
     "static/js/2.f37fb951.chunk.js",
     "static/css/main.913a85c7.chunk.css",
-    "static/js/main.4953317c.chunk.js"
+    "static/js/main.cff991c6.chunk.js"
   ]
 }
