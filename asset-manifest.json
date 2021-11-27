@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/limitlessnft/static/css/main.913a85c7.chunk.css",
-    "main.js": "/limitlessnft/static/js/main.6a56726a.chunk.js",
-    "main.js.map": "/limitlessnft/static/js/main.6a56726a.chunk.js.map",
-    "runtime-main.js": "/limitlessnft/static/js/runtime-main.8a0a14cd.js",
-    "runtime-main.js.map": "/limitlessnft/static/js/runtime-main.8a0a14cd.js.map",
-    "static/js/2.d893eeed.chunk.js": "/limitlessnft/static/js/2.d893eeed.chunk.js",
-    "static/js/2.d893eeed.chunk.js.map": "/limitlessnft/static/js/2.d893eeed.chunk.js.map",
-    "static/js/3.5e2d764d.chunk.js": "/limitlessnft/static/js/3.5e2d764d.chunk.js",
-    "static/js/3.5e2d764d.chunk.js.map": "/limitlessnft/static/js/3.5e2d764d.chunk.js.map",
+    "main.js": "/limitlessnft/static/js/main.4953317c.chunk.js",
+    "main.js.map": "/limitlessnft/static/js/main.4953317c.chunk.js.map",
+    "runtime-main.js": "/limitlessnft/static/js/runtime-main.89cc64fb.js",
+    "runtime-main.js.map": "/limitlessnft/static/js/runtime-main.89cc64fb.js.map",
+    "static/js/2.f37fb951.chunk.js": "/limitlessnft/static/js/2.f37fb951.chunk.js",
+    "static/js/2.f37fb951.chunk.js.map": "/limitlessnft/static/js/2.f37fb951.chunk.js.map",
+    "static/js/3.518ff39c.chunk.js": "/limitlessnft/static/js/3.518ff39c.chunk.js",
+    "static/js/3.518ff39c.chunk.js.map": "/limitlessnft/static/js/3.518ff39c.chunk.js.map",
     "index.html": "/limitlessnft/index.html",
     "static/css/main.913a85c7.chunk.css.map": "/limitlessnft/static/css/main.913a85c7.chunk.css.map",
-    "static/js/2.d893eeed.chunk.js.LICENSE.txt": "/limitlessnft/static/js/2.d893eeed.chunk.js.LICENSE.txt",
+    "static/js/2.f37fb951.chunk.js.LICENSE.txt": "/limitlessnft/static/js/2.f37fb951.chunk.js.LICENSE.txt",
     "static/media/boredape.a7529859.png": "/limitlessnft/static/media/boredape.a7529859.png",
     "static/media/brian.c1dcb699.jpeg": "/limitlessnft/static/media/brian.c1dcb699.jpeg",
     "static/media/coolcat.cceb59e0.png": "/limitlessnft/static/media/coolcat.cceb59e0.png",
@@ -20,9 +20,9 @@
     "static/media/space.5393dc1f.mp4": "/limitlessnft/static/media/space.5393dc1f.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a0a14cd.js",
-    "static/js/2.d893eeed.chunk.js",
+    "static/js/runtime-main.89cc64fb.js",
+    "static/js/2.f37fb951.chunk.js",
     "static/css/main.913a85c7.chunk.css",
-    "static/js/main.6a56726a.chunk.js"
+    "static/js/main.4953317c.chunk.js"
   ]
 }
