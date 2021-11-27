@@ -30,29 +30,29 @@ const Footer = () => {
           <FooterLinksWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>About Us</FooterLinkTitle>
-              <FooterLink to="/">About</FooterLink>
+              <FooterLink to="/limitlessnft">About</FooterLink>
               <FooterLinkScroll to="about">How it works</FooterLinkScroll>
               <FooterLinkScroll to="meet">Meet The Team</FooterLinkScroll>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
-              <FooterLink to="/">About Us</FooterLink>
-              <FooterLink to="/">How it works</FooterLink>
-              <FooterLink to="/">Investors</FooterLink>
+              <FooterLink to="/limitlessnft">About Us</FooterLink>
+              <FooterLink to="/limitlessnft">How it works</FooterLink>
+              <FooterLink to="/limitlessnft">Investors</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
           <FooterLinksWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>Social Media</FooterLinkTitle>
-              <FooterLink to="/">Instagram</FooterLink>
-              <FooterLink to="/">Twitter</FooterLink>
-              <FooterLink to="/">Facebook</FooterLink>
+              <FooterLink to="/limitlessnft">Instagram</FooterLink>
+              <FooterLink to="/limitlessnft">Twitter</FooterLink>
+              <FooterLink to="/limitlessnft">Facebook</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
         <SocialMedia>
           <SocialMediaWrapper>
-            <SocialLogo to="/" onClick={toggleHome}>
+            <SocialLogo to="/limitlessnft" onClick={toggleHome}>
               limitlessNFT.io
             </SocialLogo>
             <CopyRights>

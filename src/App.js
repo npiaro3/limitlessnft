@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<HomePage />} exact />
+        <Route path="/limitlessnft" element={<HomePage />} exact />
       </Routes>
     </Router>
   );
