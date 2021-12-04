@@ -36,8 +36,8 @@ const NavBar = ({ toggle }) => {
     <>
       <Nav scrollNav={scrollNav}>
         <NavBarContainer>
-          <NavLogo to="/limitlessnft" onClick={toggleHome}>
-            limitlessNFT.io
+          <NavLogo to="/ditto" onClick={toggleHome}>
+            ditto.io
           </NavLogo>
           <OptionsIcon onClick={toggle}>
             <FaBars />
@@ -88,7 +88,7 @@ const NavBar = ({ toggle }) => {
               </NavLinks>
             </NavItem>
             <SigninButton>
-              <ButtonLink to="/limitlessnft">SIGN IN</ButtonLink>
+              <ButtonLink to="/ditto">SIGN IN</ButtonLink>
             </SigninButton>
           </NavMenu>
         </NavBarContainer>

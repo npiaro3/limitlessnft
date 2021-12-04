@@ -4,8 +4,8 @@ import { motion } from "framer-motion";
 export const CardWrapper = styled.div`
   width: 100%;
   perspective: 2000;
-  margin-top: 300px;
-  margin-left: 300px;
+  margin-top: 20%;
+  margin-left: 20%;
 `;
 
 export const TeamMember1 = styled(motion.div)`
